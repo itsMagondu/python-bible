@@ -72,7 +72,7 @@ def bible_data(translation=None):
             'testament': 'OT',
             'verse_counts': [18, 25, 27, 44, 27, 33, 20, 29, 37, 36, 21, 21, 25, 29, 38, 20, 41, 37, 37, 21, 26, 20, 37, 20, 30],
             'name': '2 Kings',
-            'abbrs': ['2king' '2kg 2', 'kg', '2kings', '2ki', '2 ki']},
+            'abbrs': ['2king' '2kg', '2kg', '2kings', '2ki', '2 ki']},
         {
             'testament': 'OT',
             'verse_counts': [54, 55, 24, 43, 26, 81, 40, 40, 44, 14, 47, 40, 14, 17, 29, 43, 27, 17, 19, 8, 30, 19, 32, 31, 31, 32, 34, 21, 30],
